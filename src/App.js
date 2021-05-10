@@ -1,10 +1,11 @@
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.css";
+import Header from "../src/components/Header";
 
 function App() {
   return (
     <div className="App">
-      <h1>office roulette</h1>
+      <Header />
       <p>find the best episodes</p>
       <p>test</p>
     </div>
