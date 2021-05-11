@@ -6,8 +6,6 @@ function App() {
   return (
     <div className="App">
       <Header />
-      <p>find the best episodes</p>
-      <p>test</p>
     </div>
   );
 }
